@@ -1,1 +1,3 @@
-# stipple-app
+# German Credit Stipple App
+
+Just trying to figure out how stipple framework is working. It is great but still beta...
